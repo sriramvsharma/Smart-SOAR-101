@@ -1,10 +1,8 @@
 # Smart-SOAR-101
 A curated list of Security Orchestration, Automation and Response (SOAR) content from D3 Security
 
-
+New to SOAR? Start here: 
 [What is SOAR?](https://d3security.com/soar-security-orchestration-automation-and-response/)
-
-
 
 
 
